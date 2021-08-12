@@ -3,6 +3,8 @@ import "./App.css";
 
 //  Content Ideas
 // Focus on coding skills you've learned
+// Skills, HTML, CSS, React, Git, GitHub, Netlify
+
 function App() {
   return (
     <div className="App">
